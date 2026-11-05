@@ -1,4 +1,4 @@
-// Alaska Procedural ID Card Background
+// Alaska Procedural ID Card Background (Refined Pass 2)
 const { renderMountainRange } = require('../components/mountain');
 const { generateWaveRibbonCluster } = require('../components/guilloche');
 const { generateWarpedGrid } = require('../components/warpedGrid');
@@ -24,18 +24,18 @@ function generateAlaska({ width = 1000, height = 630, idPrefix = 'ak_1', rng }) 
     startX: 0,
     endX: width,
     baseY: height * 0.22,
-    amplitude: 35,
-    frequency: 0.005,
+    amplitude: 36,
+    frequency: 0.0052,
     numLines: 9,
-    lineSpacing: 6,
+    lineSpacing: 5.5,
     strokeColor: '#34d399',
-    strokeWidth: 0.8,
-    opacity: 0.35,
-    secondaryFreq: 0.012,
-    secondaryAmp: 12
+    strokeWidth: 0.75,
+    opacity: 0.32,
+    secondaryFreq: 0.013,
+    secondaryAmp: 11
   });
 
-  const peakX = width * 0.42 + (rng.random() - 0.5) * 50;
+  const peakX = width * 0.42 + (rng.random() - 0.5) * 45;
   const peakY = height * 0.38 + (rng.random() - 0.5) * 20;
 
   const mountains = renderMountainRange({
@@ -59,13 +59,15 @@ function generateAlaska({ width = 1000, height = 630, idPrefix = 'ak_1', rng }) 
     startX: 0,
     endX: width,
     baseY: height * 0.86,
-    amplitude: 15,
-    frequency: 0.007,
-    numLines: 6,
-    lineSpacing: 5,
+    amplitude: 16,
+    frequency: 0.0075,
+    numLines: 9,
+    lineSpacing: 4.2,
     strokeColor: '#0284c7',
-    strokeWidth: 0.7,
-    opacity: 0.28
+    strokeWidth: 0.65,
+    opacity: 0.26,
+    secondaryFreq: 0.018,
+    secondaryAmp: 6
   });
 
   const grid = generateWarpedGrid({

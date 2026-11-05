@@ -1,4 +1,4 @@
-// Colorado Procedural ID Card Background
+// Colorado Procedural ID Card Background (Refined Pass 2)
 const { renderMountainRange } = require('../components/mountain');
 const { generateRadialFan } = require('../components/guilloche');
 const { generateWarpedGrid } = require('../components/warpedGrid');
@@ -21,8 +21,8 @@ function generateColorado({ width = 1000, height = 630, idPrefix = 'co_1', rng }
     outerRadius: width * 0.42,
     numRays: 48,
     strokeColor: '#f59e0b',
-    strokeWidth: 0.65,
-    opacity: 0.28,
+    strokeWidth: 0.6,
+    opacity: 0.21,
     waveModulation: 8
   });
 
