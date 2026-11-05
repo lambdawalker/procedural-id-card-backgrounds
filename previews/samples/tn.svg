@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" width="1000" height="630" data-state="TN" data-seed="42">
+  <defs>
+    <linearGradient id="tn_s42_bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#312e81" />
+      <stop offset="45%" stop-color="#4338ca" />
+      <stop offset="75%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#e0e7ff" />
+    </linearGradient>
+  </defs>
+  <g id="tn_s42_layer">
+<rect width="1000" height="630" fill="url(#tn_s42_bg)" />
+<path d="M 0 283.5 L 100 291 L 250 300 L 400 306 L 550 301 L 700 290 L 850 280 L 1000 278.4" fill="none" stroke="#c7d2fe" stroke-width="0.7" stroke-opacity="0.22" />
+<path d="M 0 346.5 L 100 354 L 250 363 L 400 369 L 550 364 L 700 353 L 850 343 L 1000 341.4" fill="none" stroke="#c7d2fe" stroke-width="0.7" stroke-opacity="0.3" />
+<path d="M 0 409.5 L 100 417 L 250 426 L 400 432 L 550 427 L 700 416 L 850 406 L 1000 404.4" fill="none" stroke="#c7d2fe" stroke-width="0.7" stroke-opacity="0.38" />
+<path d="M 0 472.5 L 100 480 L 250 489 L 400 495 L 550 490 L 700 479 L 850 469 L 1000 467.4" fill="none" stroke="#c7d2fe" stroke-width="0.7" stroke-opacity="0.46" />
+<path d="M 0 189.6 L 100 200 L 200 205 L 300 201 L 400 190 L 500 185 L 600 191 L 700 202 L 800 205 L 900 198 L 1000 188.8" fill="none" stroke="#fbbf24" stroke-width="0.8" stroke-opacity="0.38" />
+<path d="M 0 195.6 L 100 206 L 200 211 L 300 207 L 400 196 L 500 191 L 600 197 L 700 208 L 800 211 L 900 204 L 1000 194.8" fill="none" stroke="#fbbf24" stroke-width="0.8" stroke-opacity="0.38" />
+<path d="M 0 201.6 L 100 212 L 200 217 L 300 213 L 400 202 L 500 197 L 600 203 L 700 214 L 800 217 L 900 210 L 1000 200.8" fill="none" stroke="#fbbf24" stroke-width="0.8" stroke-opacity="0.38" />
+<path d="M 0 207.6 L 100 218 L 200 223 L 300 219 L 400 208 L 500 203 L 600 209 L 700 220 L 800 223 L 900 216 L 1000 206.8" fill="none" stroke="#fbbf24" stroke-width="0.8" stroke-opacity="0.38" />
+<path d="M 0 213.6 L 100 224 L 200 229 L 300 225 L 400 214 L 500 209 L 600 215 L 700 226 L 800 229 L 900 222 L 1000 212.8" fill="none" stroke="#fbbf24" stroke-width="0.8" stroke-opacity="0.38" />
+<path d="M 90 550 Q 110.0 568.0 130.0 550.0 Q 110.0 532.0 90 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 90 550 Q 72.0 570.0 90.0 590.0 Q 108.0 570.0 90 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 90 550 Q 70.0 532.0 50.0 550.0 Q 70.0 568.0 90 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 90 550 Q 108.0 530.0 90.0 510.0 Q 72.0 530.0 90 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<circle cx="90" cy="550" r="6.0" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.525" />
+<path d="M 910 550 Q 930.0 568.0 950.0 550.0 Q 930.0 532.0 910 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 910 550 Q 892.0 570.0 910.0 590.0 Q 928.0 570.0 910 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 910 550 Q 890.0 532.0 870.0 550.0 Q 890.0 568.0 910 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<path d="M 910 550 Q 928.0 530.0 910.0 510.0 Q 892.0 530.0 910 550" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.35" />
+<circle cx="910" cy="550" r="6.0" fill="none" stroke="#f472b6" stroke-width="0.75" stroke-opacity="0.525" />
+  </g>
+</svg>
