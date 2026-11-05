@@ -1,0 +1,92 @@
+[
+  {
+    "filename": "ak_seed_42.png",
+    "state": "AK",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "e20986e41de2ccb7a5bcc7b0bad465aa69af278523ad47665ccb37434352951b"
+  },
+  {
+    "filename": "ar_seed_42.png",
+    "state": "AR",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "9fcace158ad51a93562a21196e05410755c3585142ba0a896ea040f5a5073dc6"
+  },
+  {
+    "filename": "co_seed_42.png",
+    "state": "CO",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "685ff2de5aa3867bca0db8460929cc3d686d1414f1b2813626f8f36e129db5e2"
+  },
+  {
+    "filename": "id_seed_42.png",
+    "state": "ID",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "07a68b6b8cfda62e4d4f372ff8b0de2a02403da231fe701413b44125026134ba"
+  },
+  {
+    "filename": "il_seed_42.png",
+    "state": "IL",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "f9a019328c5c4da1ee28c01bc3d444001f1c062e3daa98d87802fe6edd972024"
+  },
+  {
+    "filename": "la_seed_42.png",
+    "state": "LA",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "d6a7bd3b20fd4b1e1319f8b7bf4ca22a6ceb967fb48985587dfde2653bc55233"
+  },
+  {
+    "filename": "tn_seed_42.png",
+    "state": "TN",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "946a69e3e229c8e5bafb081b45432d88fdf3554ee3aa152682c9f2c61ec2193b"
+  },
+  {
+    "filename": "ut_seed_42.png",
+    "state": "UT",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "3a9ac62210c28c92589dc91a6b57a809bf3cabb249e05544c7a6dc1d096bbab0"
+  },
+  {
+    "filename": "wa_seed_42.png",
+    "state": "WA",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "5d24492f055bc189666bf11e10bd97293d6c2e25b21ce4a0f82d7d8b962f92e0"
+  },
+  {
+    "filename": "wy_seed_42.png",
+    "state": "WY",
+    "seed": 42,
+    "width": 1000,
+    "height": 630,
+    "format": "both",
+    "sha256": "f4f8b4a01eb545ebb09945774f86c16d3023d8d2baab58196bc9795a3707923e"
+  }
+]

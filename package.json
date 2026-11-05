@@ -1,0 +1,23 @@
+{
+  "name": "procedural-id-card-backgrounds",
+  "version": "1.0.0",
+  "description": "Procedural SVG and PNG background generator for synthetic ID card datasets",
+  "main": "src/index.js",
+  "bin": {
+    "generate-backgrounds": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node test/geometry.test.js && node test/determinism.test.js && node test/seed_variation.test.js && node test/id_collision.test.js && node test/dimensions.test.js",
+    "generate": "node src/cli.js",
+    "batch": "node src/cli.js --state all --count 10 --format svg --outdir dist --manifest manifest.json"
+  },
+  "keywords": [
+    "synthetic-data",
+    "id-card",
+    "procedural-generation",
+    "svg",
+    "dataset"
+  ],
+  "author": "lambdawalker",
+  "license": "MIT"
+}
