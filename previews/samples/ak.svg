@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 630" width="1000" height="630" data-state="AK" data-seed="42">
+  <defs>
+    <linearGradient id="ak_s42_sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="45%" stop-color="#1e3a8a" />
+      <stop offset="85%" stop-color="#e0f2fe" />
+      <stop offset="100%" stop-color="#f8fafc" />
+    </linearGradient>
+    <linearGradient id="ak_s42_aurora" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" stop-opacity="0" />
+      <stop offset="35%" stop-color="#10b981" stop-opacity="0.35" />
+      <stop offset="70%" stop-color="#06b6d4" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <g id="ak_s42_layer">
+    <!-- Alaska Denali Massif & Aurora Curtains -->
+  </g>
+</svg>
